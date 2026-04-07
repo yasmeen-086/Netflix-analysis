@@ -46,37 +46,13 @@ Netflix-analysis/
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-
-```
-git clone https://github.com/your-username/Netflix-analysis.git
-```
-
-2. Navigate to project folder:
-
-```
-cd Netflix-analysis
-```
-
-3. Install dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-4. Run the script:
-
-```
-python netflix_analysis.py
-```
-
----
-
 ## Sample Visualizations
+<img width="2834" height="1176" alt="image" src="https://github.com/user-attachments/assets/6f80028e-6a3b-4ccb-9409-2b347ba95d55" />
+<img width="2834" height="1194" alt="image" src="https://github.com/user-attachments/assets/f2fc5d9c-ad33-4f61-9f2d-2febbfcf6eab" />
+<img width="1480" height="1450" alt="image" src="https://github.com/user-attachments/assets/71bac872-02e3-4a6b-9026-65340e1b62e6" />
 
-(Add screenshots here — very important for interview!)
+
+
 
 ---
 
